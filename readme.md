@@ -1,4 +1,5 @@
 # Puppeteer Test
+[![Build Status](https://travis-ci.org/sagarpanda/puppeteer-test.svg?branch=master)](https://travis-ci.org/sagarpanda/puppeteer-test)
 End-to-end automation testing with puppeteer (headless chrome), Jest and Babel (ES6).
 
 ### Installation
