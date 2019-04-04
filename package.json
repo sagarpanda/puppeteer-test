@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-test",
+  "version": "1.0.0",
+  "description": "End-to-end automation testing with puppeteer (headless chrome), Jest and Babel (ES6).",
+  "main": "index.js",
+  "scripts": {
+    "start": "jest --runInBand",
+    "test": "jest"
+  },
+  "keywords": ["puppeteer", "Jest", "Babel", "ES6", "Headless Chrome"],
+  "author": "Sagar Panda<er.sagarpanda@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.5.0",
+    "jest-puppeteer": "^4.1.0",
+    "puppeteer": "^1.13.0"
+  }
+}
